@@ -1,4 +1,4 @@
-study
+For study and backup
 =====
 
-study project and some back such as .zshrc .vimrc and so on
+study project and some back item such as `.zshrc` `.vimrc` and so on
