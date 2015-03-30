@@ -1,6 +1,9 @@
 set nocompatible
+
+"turn on syntax
 syntax on
 
+"set relative number line
 set rnu
 
 "set indent
